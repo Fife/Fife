@@ -5,7 +5,7 @@ This is where you will find some of my personal software/hardware development pr
 
 Before starting my journey as a Computer Engineering student I was an Audio Engineer, Stage Technician and Musician.   
 
-A curiosity about what made my audio gear work is what brought me to Computer Engineering, so this github serves as a bit of a playground. To that end, I am currently working on building a DSP engine meant for embedded systems, which you can find [here](https://github.com/Fife/Fife-DSP).
+A curiosity for what made my audio gear work is what brought me to Computer Engineering, so this github serves as a bit of a playground. To that end, I am currently working on building a DSP engine meant for embedded systems, which you can find [here](https://github.com/Fife/Fife-DSP).
 
 I also enjoy dabbling in some competative programming, my most recent submission was a Machine Learning submission to the [Synmax Twitter Contest](https://synmax.com/home/synmax-twitter-contest/) of which I placed in the top 10. My submission can be found [here](https://github.com/Fife/Proteus-ShipTracker).
 
