@@ -1,12 +1,14 @@
-Hi!  
-My name is Fife, and you've made it to my github page!
+## Greetings!  
+My name is Jacob Fifield, and you've made it to my github page!
 
-Here is where you will find some of my personal software/hardware development projects.
+This is where you will find some of my personal software/hardware development projects, as well as public facing contributions to university projects. Here is a little about myself and the work present on this github:
 
-Most of the projects in these repositories are musical in nature, as music technology is somthing
-that I have a bit of an obsession with.
+Before starting my journey as a Computer Engineering student, I was an Audio Engineer and Musician.   
 
-Check out my musical electronics store:  
-[Fife Electronics](https://fifeelectronics.com).
+Learning about digital singal processing is what brought me to Computer Engineering, so this github serves as a bit of a playground. To that end, I am currently working on building a DSP engine meant for embedded systems, which you can find [here](https://github.com/Fife/Fife-DSP).
+
+I also enjoy dabbling in some competative programming, my most recent submission was a Machine Learning submission to the [Synmax Twitter Contest](https://synmax.com/home/synmax-twitter-contest/) of which I placed in the top 10. My submission can be found [here](https://github.com/Fife/Proteus-ShipTracker).
+
+I am currently looking for development work! 
 
 :control_knobs: :guitar: 🎶
