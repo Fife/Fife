@@ -11,4 +11,4 @@ I also dabble in competative programming. The most recent competition I particip
 
 I am currently looking for development work! 
 
-:control_knobs: :guitar: 🎶
+:control_knobs: :guitar: 🎶 💻
