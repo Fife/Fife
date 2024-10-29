@@ -9,7 +9,7 @@ A curiosity for what made my audio gear work is what brought me to Embedded Syst
 
 I also participate in competative programming and team projects:
 
-2024 : [Smart Cryogenic Connector](https://github.com/IEEE-Robotics-Club/NASA-Minds-2024) for [NASA MINDS Undergraduate Student Design](https://www.nasa.gov/stem/murep/projects/nasa-minds.html). Our Team is almost done with our submission!
+2024 : [Smart Cryogenic Connector](https://github.com/IEEE-Robotics-Club/NASA-Minds-2024) for [NASA MINDS Undergraduate Student Design](https://www.nasa.gov/stem/murep/projects/nasa-minds.html). Our Team got 1st in the best overall systems engineering paper!
 
 2023 : [TELLUS Swarming Robotic Resource Location System](https://github.com/IEEE-Robotics-Club/MSU-NASA-Minds-2023) for [NASA MINDS Undergraduate Student Design](https://www.nasa.gov/stem/murep/projects/nasa-minds.html) 
 
